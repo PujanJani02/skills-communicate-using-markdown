@@ -1,4 +1,5 @@
 # Understanding Markdown
+
 ###  Activity: Edit your file with headers
 
 ### Activity 2: Adding an image
